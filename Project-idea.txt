@@ -1,0 +1,22 @@
+					
+
+									Full-stack application:
+
+
+I am planning to work on the Copygram idea. 
+
+
+Copygram:
+	Make a simple instagram copy. Users need to log in to add new pictures and comment on other pictures. Pictures are displayed newest first. Only the user who has added the picture can remove it or its comments. All logged users can comment all pictures. All pictures added are public. No private pictures.
+
+	I have done little research about it. This project will three main parts:
+
+1. Front-end: This will be implemented using react. I will take from help from the online materials and video tutorials to make it an interesting and user friendly.
+
+2. Backend: It will be developed using express Node.js as this is the only tool, I know for server-side web application. 
+
+3. Database: Right now, I do not know what platform I should use but I hope that something related to databased will be taught/discussed in this course which will help me to make a discussion.
+
+Schedule: This is an arbitrary schedule for my project work as there are many open questions. However, I will begin works from February 2021 on the front side. I hope that in March 2021, I will have some knowledge of the databases and more backend web development and I can start my work on it during that time.  
+
+Deadline: A week earlier than the end of the course.
